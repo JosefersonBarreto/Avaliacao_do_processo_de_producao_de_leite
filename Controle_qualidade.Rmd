@@ -356,7 +356,7 @@ ggplot(base, aes(x = dias, y = amplitude)) +
 
 
 
-## <font color='black' face="Arial Black">  Gráfico S  $ </font>
+## <font color='black' face="Arial Black">  Gráfico S   </font>
 
 Atrávez do gráfico S podemos monitorar a variabilidade do processo , o limites são definidos como :
 
@@ -410,7 +410,7 @@ ggplot(dados5, aes(x = dias, y = desvio_padrao)) +
 
  Podemos perceber que 3 pontos assim como no gráfico da amplitude,  que ficaram em cima do limite inferior, entretanto, analisando nossos dados isso indica que apenas não ouve variação na produção de leite entre os turno naquele dia em especifico, ou seja, a produção de leite de manhã e tarde foi exatamente a mesma .
 
-## <font color='black' face="Arial Black">  capacidade do processo   $C_{p}$ </font>
+## <font color='black' face="Arial Black">  capacidade do processo $(C_{p})$ </font>
 
 A Capacidade do Processo ($C_{p}$) é uma medida utilizada na área de controle de qualidade para avaliar a capacidade de um processo em produzir produtos ou serviços dentro dos limites especificados. O $C_{p}$ é um índice que compara a variação natural do processo com a variação permitida pelas especificações do produto ou serviço.
 

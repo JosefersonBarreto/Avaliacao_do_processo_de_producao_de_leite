@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1058066/031f330fe69949578deb8e456e36452b
+bundleId: https://api.rpubs.com/api/v1/document/1058066/031f330fe69949578deb8e456e36452b
+url: http://rpubs.com/joseferson/1058066
+when: 1687910023.54805
+lastSyncTime: 1687910023.54806
